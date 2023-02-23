@@ -2,25 +2,37 @@
     {
       "id": 1,
       "name": "Book",
-      "price": 10.99,
-      "imgUrl": "/imgs/book.jpg"
+      "price": 999,
+      "imgUrl": "imgs/book.jpg"
     },
     {
       "id": 2,
       "name": "Computer",
-      "price": 1199,
-      "imgUrl": "/imgs/computer.jpg"
+      "price": 35999,
+      "imgUrl": "imgs/computer.jpg"
     },
     {
       "id": 3,
       "name": "Banana",
-      "price": 1.05,
-      "imgUrl": "/imgs/banana.jpg"
+      "price": 60,
+      "imgUrl": "imgs/banana.jpg"
     },
     {
       "id": 4,
       "name": "Car",
-      "price": 14000,
-      "imgUrl": "/imgs/car.jpg"
-    }
+      "price": 740000,
+      "imgUrl": "imgs/car.jpg"
+    },
+    {
+      "id": 5,
+      "name": "iPhone",
+      "price": 90000,
+      "imgUrl": "imgs/iPhone.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Juicer",
+      "price": 9000,
+      "imgUrl": "imgs/juicer.jpg"
+    } 
   ]
